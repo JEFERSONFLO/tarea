@@ -53,9 +53,7 @@ export default function Hero() {
           </h1>
          <Banner></Banner>
           <p className="mt-6 text-lg text-justify leading-8 text-gray-600 ">
-            Bienvenido al Centro Editorial Peruvian Science, una comunidad de
-            investigadores comprometidos con la excelencia científica y la
-            formación en el Perú.
+          ¡Te doy la bienvenida al Centro Editorial Peruvian Science, un espacio donde investigadores se unen en búsqueda de la excelencia científica y el fomento del conocimiento en el Perú!
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
             <a
